@@ -1,3 +1,5 @@
 
 va_1=['a','b','c']
-print(va_1)
+va_2=[1,2,3,]
+print(va_1,var_2)
+
